@@ -1,0 +1,6 @@
+start (0 0 0.119);
+end   (0 0 0);
+fields (N2);
+#includeEtc "caseDicts/postProcessing/graphs/sampleDict.cfg"
+
+#includeEtc "caseDicts/postProcessing/graphs/graph.cfg"
